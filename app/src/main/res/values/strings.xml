@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BTTerminal</string>
+    <string name="send_button">Send</string>
+    <string name="text_to_send" />
+    <string name="consoleThings">>></string>
+    <string name="verbose_output"/>
+</resources>
